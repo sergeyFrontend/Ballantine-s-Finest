@@ -2,4 +2,4 @@
 
 верстка главного экрана
 
-![2022-12-14_13-29-24](https://user-images.githubusercontent.com/98023374/207545222-a9420bec-1df9-4678-9c98-efa453ea1d7d.png)
+![копия](https://user-images.githubusercontent.com/98023374/207545680-d27b3105-c134-4aba-9e12-18c876ddd4f7.png)
